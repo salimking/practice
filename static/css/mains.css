@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.manubar {
+    height: 50px;
+    background-color: #00FF00;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    border: 10 px solid #fff;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    background-color: rgba(218, 186, 7, 0.5);
+}
